@@ -1,4 +1,5 @@
 body { 
   background-color: lightblue;
 }
-#nav-table {width: 800px;}
+#nav-table {width: 300px;}
+#nav-td {width: 75px; text-align:center;}
